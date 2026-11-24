@@ -1,0 +1,5 @@
+category,n,model_mae,model_rmse,naive_mae,naive_rmse,rolling7_mae,rolling7_rmse,discount_aware_mae,discount_aware_rmse,model_beats_rolling7_mae,mae_improvement_vs_rolling7_pct
+rice,91,4.918,7.316,4.648,7.518,6.866,9.172,4.648,7.518,True,28.4
+ghee,91,35.534,49.917,35.115,53.964,52.212,67.684,36.342,54.876,True,31.9
+pulses,91,11.194,14.357,11.534,15.827,13.809,18.139,11.68,15.864,True,18.9
+sugar,91,37.395,51.913,40.954,61.167,39.096,59.307,40.954,61.167,True,4.4
