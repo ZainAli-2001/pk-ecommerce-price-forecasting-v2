@@ -1,0 +1,5 @@
+category,n,model_mae,model_rmse,naive_mae,naive_rmse,rolling7_mae,rolling7_rmse,discount_aware_mae,discount_aware_rmse,model_beats_rolling7_mae,mae_improvement_vs_rolling7_pct
+ghee,61,35.696,48.064,40.017,56.743,62.022,76.215,42.474,58.127,True,42.4
+rice,61,4.413,6.72,4.849,7.25,6.437,8.199,4.849,7.25,True,31.4
+sugar,61,27.814,33.855,25.281,36.119,28.565,40.26,25.412,36.055,True,2.6
+tea,61,38.495,49.005,42.167,58.836,49.311,58.066,42.255,58.976,True,21.9
