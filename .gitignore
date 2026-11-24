@@ -1,0 +1,14 @@
+.venv/
+
+results/**/day_night_paired_*.csv
+
+data/output/*
+!data/output/.gitkeep
+!data/output/diagnostics_output/
+!data/output/forecast_data/
+
+data/output/diagnostics_output/*
+!data/output/diagnostics_output/.gitkeep
+
+data/output/forecast_data/*
+!data/output/forecast_data/.gitkeep
