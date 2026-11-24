@@ -1,0 +1,3 @@
+[submodule "vendor/pipeline"]
+	path = vendor/pipeline
+	url = https://github.com/ZainAli-2001/pk-ecommerce-price-pipeline
